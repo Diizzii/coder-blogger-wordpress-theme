@@ -330,8 +330,6 @@ Index Page
 .hero {
   margin-top: 2rem;
   min-height: calc(100vh - 2rem);
-  object-fit: cover;
-  background-position: center;
 }
 
 .hero-index {
